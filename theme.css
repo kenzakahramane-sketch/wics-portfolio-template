@@ -1,0 +1,54 @@
+/* =========================================================
+   THEME.CSS — this is the file you customize the most.
+   Change these values and your whole site updates.
+   Try a few of the alternate palettes below, or make your own!
+   ========================================================= */
+
+:root {
+  /* ---- Colors ---- */
+  --color-bg: #faf8f3;          /* page background */
+  --color-ink: #1b2430;          /* main text */
+  --color-ink-soft: #5a6270;     /* secondary text */
+  --color-accent: #c9622d;       /* headings, links, highlights */
+  --color-accent-soft: #f0d9c4;  /* accent backgrounds, tags */
+  --color-line: #ddd6c8;         /* borders, dividers */
+  --color-card: #ffffff;         /* project card background */
+
+  /* ---- Fonts ----
+     Display font = big personality (headings, name)
+     Body font = readable, quiet
+     Mono font = tags, labels, code-flavored details
+     All three are loaded from Google Fonts in index.html <head> */
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* ---- Shape & spacing ---- */
+  --radius: 10px;
+  --max-width: 960px;
+}
+
+/* -------------------------------------------------------
+   ALTERNATE PALETTES — copy one block into :root above to
+   swap the whole site's mood in one edit. Delete the rest.
+   ------------------------------------------------------- */
+
+/* Cool / minimal
+--color-bg: #f5f6f8;
+--color-ink: #14171f;
+--color-ink-soft: #5c6270;
+--color-accent: #2f6f6b;
+--color-accent-soft: #d8e8e6;
+--color-line: #dcdfe4;
+--color-card: #ffffff;
+*/
+
+/* Bold / dark mode
+--color-bg: #14171f;
+--color-ink: #f2f0e9;
+--color-ink-soft: #9aa0ac;
+--color-accent: #e8b64a;
+--color-accent-soft: #3a3222;
+--color-line: #2a2e38;
+--color-card: #1c202b;
+*/
