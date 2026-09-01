@@ -6,12 +6,12 @@
 
 :root {
   /* ---- Colors ---- */
-  --color-bg: #faf8f3;          /* page background */
-  --color-ink: #1b2430;          /* main text */
-  --color-ink-soft: #5a6270;     /* secondary text */
-  --color-accent: #c9622d;       /* headings, links, highlights */
-  --color-accent-soft: #f0d9c4;  /* accent backgrounds, tags */
-  --color-line: #ddd6c8;         /* borders, dividers */
+  --color-bg: #f8f3fa;          /* page background */
+  --color-ink: #2d1d37;          /* main text */
+  --color-ink-soft: #6c5a70;     /* secondary text */
+  --color-accent: #832dc9;       /* headings, links, highlights */
+  --color-accent-soft: #dec4f0;  /* accent backgrounds, tags */
+  --color-line: #d8c8dd;         /* borders, dividers */
   --color-card: #ffffff;         /* project card background */
 
   /* ---- Fonts ----
